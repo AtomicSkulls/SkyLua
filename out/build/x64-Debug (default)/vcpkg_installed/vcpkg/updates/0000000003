@@ -1,0 +1,10 @@
+Package: boost-vcpkg-helpers
+Version: 7
+Port-Version: 2
+Depends: boost-uninstall
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: 33e4af0bb81af2da5a6f616a4984298197b7ef09
+Description: a set of vcpkg-internal scripts used to modularize boost
+Type: Port
+Status: install ok installed

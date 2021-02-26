@@ -1,0 +1,182 @@
+Detecting compiler hash for triplet x64-windows-static...
+The following packages will be built and installed:
+  * boost-align[core]:x64-windows-static -> 1.75.0
+  * boost-assert[core]:x64-windows-static -> 1.75.0
+    boost-atomic[core]:x64-windows-static -> 1.75.0
+  * boost-build[core]:x64-windows-static -> 1.75.0.beta1#1
+  * boost-compatibility[core]:x64-windows-static -> 1.75.0
+  * boost-config[core]:x64-windows-static -> 1.75.0
+  * boost-core[core]:x64-windows-static -> 1.75.0
+  * boost-detail[core]:x64-windows-static -> 1.75.0
+  * boost-integer[core]:x64-windows-static -> 1.75.0
+  * boost-modular-build-helper[core]:x64-windows-static -> 1.75.0#2
+  * boost-predef[core]:x64-windows-static -> 1.75.0
+  * boost-preprocessor[core]:x64-windows-static -> 1.75.0
+  * boost-static-assert[core]:x64-windows-static -> 1.75.0
+    boost-stl-interfaces[core]:x64-windows-static -> 1.75.0
+  * boost-throw-exception[core]:x64-windows-static -> 1.75.0
+  * boost-type-traits[core]:x64-windows-static -> 1.75.0
+  * boost-uninstall[core]:x64-windows-static -> 1.75.0
+  * boost-vcpkg-helpers[core]:x64-windows-static -> 7#2
+  * boost-winapi[core]:x64-windows-static -> 1.75.0
+  * fmt[core]:x64-windows-static -> 7.1.3
+    span-lite[core]:x64-windows-static -> 0.9.0
+    spdlog[core]:x64-windows-static -> 1.8.0#1
+Additional packages (*) will be modified to complete this operation.
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\60\60c43efabf09a10a46e5072acd1606ba210e3b07.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\33\33e4af0bb81af2da5a6f616a4984298197b7ef09.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\cf\cf03837b03d0b953a53d79d8d8467393e5eeff70.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\fa\fa21ddfef90e56359aefaf37603a88d8243d198e.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\9b\9b1178295b4b85bd5f53d5e2814eea255c05673c.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\98\989c9c8c5bf9c8aa4041c6641f3d86951ff2b1da.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\54\54d1eefe76a0dde670b06165634602bece4d9183.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\15\15be0abbf005a618318b3cb9f03b5cdd26734166.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\34\3455d15ac1b63be1e69b80b5954fa8a801d87f85.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\8f\8ff17b5bfa93d938ac64f2638973bccafd9d5031.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\0d\0dd2044a049e983e302160995c0db2e3995baee5.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\77\77c8a58656418f63faf36dfec97722269f16c9c8.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\78\786fa63d93327ff27e61f97781059bc3ba43c0c9.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\51\516066a3851da2cff0f9e179bef2a3425393680c.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\43\43b90288d818d2155a2e36c122f06283390dc9d4.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\67\6797878c59cfc7ed981464e9efb0e275dc2c08a3.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\48\48c309cdedd0339a8d2c3c58a33a766ca9c34aee.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\04\04bf0685c026465791871e4c90b68fa965fb58a9.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\dc\dc4412428d47eeda58ebf9bea80b5c6740062b28.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\e8\e82b6c7d099c0e2372f675ff51dddd41fbf41985.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\5e\5ed57e550462ba29735b915bf92ed5376ba21927.zip
+Using cached binary package: C:\Users\Benjamin\AppData\Local\vcpkg\archives\ba\ba4005ac376e0619736d833980755e2aabaf99b1.zip
+Starting package 1/22: boost-uninstall:x64-windows-static
+Building package boost-uninstall[core]:x64-windows-static...
+Building package boost-uninstall[core]:x64-windows-static... done
+Installing package boost-uninstall[core]:x64-windows-static...
+Installing package boost-uninstall[core]:x64-windows-static... done
+Elapsed time for package boost-uninstall:x64-windows-static: 10.67 ms
+Starting package 2/22: boost-vcpkg-helpers:x64-windows-static
+Building package boost-vcpkg-helpers[core]:x64-windows-static...
+Building package boost-vcpkg-helpers[core]:x64-windows-static... done
+Installing package boost-vcpkg-helpers[core]:x64-windows-static...
+Installing package boost-vcpkg-helpers[core]:x64-windows-static... done
+Elapsed time for package boost-vcpkg-helpers:x64-windows-static: 11.33 ms
+Starting package 3/22: boost-compatibility:x64-windows-static
+Building package boost-compatibility[core]:x64-windows-static...
+Building package boost-compatibility[core]:x64-windows-static... done
+Installing package boost-compatibility[core]:x64-windows-static...
+Installing package boost-compatibility[core]:x64-windows-static... done
+Elapsed time for package boost-compatibility:x64-windows-static: 26.64 ms
+Starting package 4/22: boost-config:x64-windows-static
+Building package boost-config[core]:x64-windows-static...
+Building package boost-config[core]:x64-windows-static... done
+Installing package boost-config[core]:x64-windows-static...
+Installing package boost-config[core]:x64-windows-static... done
+Elapsed time for package boost-config:x64-windows-static: 231 ms
+Starting package 5/22: boost-assert:x64-windows-static
+Building package boost-assert[core]:x64-windows-static...
+Building package boost-assert[core]:x64-windows-static... done
+Installing package boost-assert[core]:x64-windows-static...
+Installing package boost-assert[core]:x64-windows-static... done
+Elapsed time for package boost-assert:x64-windows-static: 14.24 ms
+Starting package 6/22: boost-core:x64-windows-static
+Building package boost-core[core]:x64-windows-static...
+Building package boost-core[core]:x64-windows-static... done
+Installing package boost-core[core]:x64-windows-static...
+Installing package boost-core[core]:x64-windows-static... done
+Elapsed time for package boost-core:x64-windows-static: 55.9 ms
+Starting package 7/22: boost-preprocessor:x64-windows-static
+Building package boost-preprocessor[core]:x64-windows-static...
+Building package boost-preprocessor[core]:x64-windows-static... done
+Installing package boost-preprocessor[core]:x64-windows-static...
+Installing package boost-preprocessor[core]:x64-windows-static... done
+Elapsed time for package boost-preprocessor:x64-windows-static: 416.8 ms
+Starting package 8/22: boost-detail:x64-windows-static
+Building package boost-detail[core]:x64-windows-static...
+Building package boost-detail[core]:x64-windows-static... done
+Installing package boost-detail[core]:x64-windows-static...
+Installing package boost-detail[core]:x64-windows-static... done
+Elapsed time for package boost-detail:x64-windows-static: 44.89 ms
+Starting package 9/22: boost-static-assert:x64-windows-static
+Building package boost-static-assert[core]:x64-windows-static...
+Building package boost-static-assert[core]:x64-windows-static... done
+Installing package boost-static-assert[core]:x64-windows-static...
+Installing package boost-static-assert[core]:x64-windows-static... done
+Elapsed time for package boost-static-assert:x64-windows-static: 17.35 ms
+Starting package 10/22: boost-align:x64-windows-static
+Building package boost-align[core]:x64-windows-static...
+Building package boost-align[core]:x64-windows-static... done
+Installing package boost-align[core]:x64-windows-static...
+Installing package boost-align[core]:x64-windows-static... done
+Elapsed time for package boost-align:x64-windows-static: 70.5 ms
+Starting package 11/22: boost-build:x64-windows-static
+Building package boost-build[core]:x64-windows-static...
+Building package boost-build[core]:x64-windows-static... done
+Installing package boost-build[core]:x64-windows-static...
+Installing package boost-build[core]:x64-windows-static... done
+Elapsed time for package boost-build:x64-windows-static: 1.089 s
+Starting package 12/22: boost-throw-exception:x64-windows-static
+Building package boost-throw-exception[core]:x64-windows-static...
+Building package boost-throw-exception[core]:x64-windows-static... done
+Installing package boost-throw-exception[core]:x64-windows-static...
+Installing package boost-throw-exception[core]:x64-windows-static... done
+Elapsed time for package boost-throw-exception:x64-windows-static: 18.75 ms
+Starting package 13/22: boost-integer:x64-windows-static
+Building package boost-integer[core]:x64-windows-static...
+Building package boost-integer[core]:x64-windows-static... done
+Installing package boost-integer[core]:x64-windows-static...
+Installing package boost-integer[core]:x64-windows-static... done
+Elapsed time for package boost-integer:x64-windows-static: 30.66 ms
+Starting package 14/22: boost-modular-build-helper:x64-windows-static
+Building package boost-modular-build-helper[core]:x64-windows-static...
+Building package boost-modular-build-helper[core]:x64-windows-static... done
+Installing package boost-modular-build-helper[core]:x64-windows-static...
+Installing package boost-modular-build-helper[core]:x64-windows-static... done
+Elapsed time for package boost-modular-build-helper:x64-windows-static: 21.1 ms
+Starting package 15/22: boost-predef:x64-windows-static
+Building package boost-predef[core]:x64-windows-static...
+Building package boost-predef[core]:x64-windows-static... done
+Installing package boost-predef[core]:x64-windows-static...
+Installing package boost-predef[core]:x64-windows-static... done
+Elapsed time for package boost-predef:x64-windows-static: 159 ms
+Starting package 16/22: boost-type-traits:x64-windows-static
+Building package boost-type-traits[core]:x64-windows-static...
+Building package boost-type-traits[core]:x64-windows-static... done
+Installing package boost-type-traits[core]:x64-windows-static...
+Installing package boost-type-traits[core]:x64-windows-static... done
+Elapsed time for package boost-type-traits:x64-windows-static: 233.8 ms
+Starting package 17/22: boost-winapi:x64-windows-static
+Building package boost-winapi[core]:x64-windows-static...
+Building package boost-winapi[core]:x64-windows-static... done
+Installing package boost-winapi[core]:x64-windows-static...
+Installing package boost-winapi[core]:x64-windows-static... done
+Elapsed time for package boost-winapi:x64-windows-static: 119.4 ms
+Starting package 18/22: boost-atomic:x64-windows-static
+Building package boost-atomic[core]:x64-windows-static...
+Building package boost-atomic[core]:x64-windows-static... done
+Installing package boost-atomic[core]:x64-windows-static...
+Installing package boost-atomic[core]:x64-windows-static... done
+Elapsed time for package boost-atomic:x64-windows-static: 144.7 ms
+Starting package 19/22: boost-stl-interfaces:x64-windows-static
+Building package boost-stl-interfaces[core]:x64-windows-static...
+Building package boost-stl-interfaces[core]:x64-windows-static... done
+Installing package boost-stl-interfaces[core]:x64-windows-static...
+Installing package boost-stl-interfaces[core]:x64-windows-static... done
+Elapsed time for package boost-stl-interfaces:x64-windows-static: 20.43 ms
+Starting package 20/22: fmt:x64-windows-static
+Building package fmt[core]:x64-windows-static...
+Building package fmt[core]:x64-windows-static... done
+Installing package fmt[core]:x64-windows-static...
+Installing package fmt[core]:x64-windows-static... done
+Elapsed time for package fmt:x64-windows-static: 44.44 ms
+Starting package 21/22: span-lite:x64-windows-static
+Building package span-lite[core]:x64-windows-static...
+Building package span-lite[core]:x64-windows-static... done
+Installing package span-lite[core]:x64-windows-static...
+Installing package span-lite[core]:x64-windows-static... done
+Elapsed time for package span-lite:x64-windows-static: 17.67 ms
+Starting package 22/22: spdlog:x64-windows-static
+Building package spdlog[core]:x64-windows-static...
+Building package spdlog[core]:x64-windows-static... done
+Installing package spdlog[core]:x64-windows-static...
+Installing package spdlog[core]:x64-windows-static... done
+Elapsed time for package spdlog:x64-windows-static: 122.8 ms
+
+Total elapsed time: 7.034 s
+

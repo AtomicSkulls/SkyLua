@@ -1,0 +1,10 @@
+CONTROL 27669cee961ba4728571ebea35691110ecdd2d2e
+boost-modular-headers.cmake 708dd29f6ec74e94f86a2708e6e2d2f3602d0730
+boost-uninstall 60c43efabf09a10a46e5072acd1606ba210e3b07
+cmake 3.19.2
+features core
+portfile.cmake eb0233acc9730db4cc887e5bc51f1a61ae719d46
+post_build_checks 2
+powershell 7.1.0
+triplet 11b48685057027ff91b8ac481e606bbf604cef3b-a1c0eabb0c5177b6a8fb97a58ae398880c47b352-b625a866c51316a0a14ba0fc80eec9729ccb239f
+usage 6b5feb7f034ac89108847d22726a7a5e74ab3116

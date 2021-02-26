@@ -1,0 +1,9 @@
+Package: boost-stl-interfaces
+Version: 1.75.0
+Depends: boost-assert, boost-config, boost-vcpkg-helpers
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: dc4412428d47eeda58ebf9bea80b5c6740062b28
+Description: Boost stl_interfaces module
+Type: Port
+Status: install ok installed

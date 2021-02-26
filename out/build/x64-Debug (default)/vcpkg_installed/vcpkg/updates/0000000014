@@ -1,0 +1,9 @@
+Package: boost-detail
+Version: 1.75.0
+Depends: boost-compatibility, boost-config, boost-preprocessor, boost-vcpkg-helpers
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: 15be0abbf005a618318b3cb9f03b5cdd26734166
+Description: Boost detail module
+Type: Port
+Status: install ok half-installed

@@ -1,0 +1,10 @@
+CONTROL f2c40d7d696a9c567c067374758c675140740f4d
+boost-vcpkg-helpers 33e4af0bb81af2da5a6f616a4984298197b7ef09
+cmake 3.19.2
+features core
+portfile.cmake 45630e25c53b5a270a21339fd7dd0dab7f289e80
+post_build_checks 2
+powershell 7.1.0
+triplet 11b48685057027ff91b8ac481e606bbf604cef3b-a1c0eabb0c5177b6a8fb97a58ae398880c47b352-b625a866c51316a0a14ba0fc80eec9729ccb239f
+vcpkg_from_git 1c60e6470b4da7c14e52a21a34389fd9c3c22732
+vcpkg_from_github a9dd1453b8873c9702731c6c36e79fb0ab6ae486

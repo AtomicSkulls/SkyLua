@@ -1,0 +1,7 @@
+CONTROL 96ec2673f1692839adfccf41e8a51cd350434647
+cmake 3.19.2
+features core
+portfile.cmake 1790c647f4d1adedfa4d020a38444ee100367c1c
+post_build_checks 2
+powershell 7.1.0
+triplet 11b48685057027ff91b8ac481e606bbf604cef3b-a1c0eabb0c5177b6a8fb97a58ae398880c47b352-b625a866c51316a0a14ba0fc80eec9729ccb239f

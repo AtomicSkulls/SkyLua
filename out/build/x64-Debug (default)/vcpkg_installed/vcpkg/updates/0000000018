@@ -1,0 +1,9 @@
+Package: boost-align
+Version: 1.75.0
+Depends: boost-assert, boost-config, boost-core, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: 8ff17b5bfa93d938ac64f2638973bccafd9d5031
+Description: Boost align module
+Type: Port
+Status: install ok half-installed

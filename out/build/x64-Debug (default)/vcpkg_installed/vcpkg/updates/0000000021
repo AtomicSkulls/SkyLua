@@ -1,0 +1,10 @@
+Package: boost-build
+Version: 1.75.0.beta1
+Port-Version: 1
+Depends: boost-uninstall
+Architecture: x64-windows-static
+Multi-Arch: same
+Abi: 0dd2044a049e983e302160995c0db2e3995baee5
+Description: Boost.Build
+Type: Port
+Status: install ok installed
