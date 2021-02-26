@@ -1,0 +1,6 @@
+[submodule "Extern/CommonLibSSE"]
+	path = Extern/CommonLibSSE
+	url = https://github.com/Ryan-rsm-McKenzie/CommonLibSSE
+[submodule "Extern/LuaJIT"]
+	path = Extern/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT
